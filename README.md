@@ -1,6 +1,10 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Welcome%20to%20SeongHyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
+ 
+
+-------
 
 <a href="https://github.com/SeongHyunJeong/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SeongHyunJeong&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/SeongHyunJeong/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHyunJeong&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
